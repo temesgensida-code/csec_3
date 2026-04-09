@@ -1,0 +1,19 @@
+Based on the patterns found in the Titanic dataset during the previous steps, here are the clear insights:
+
+1. Who was more likely to survive? (Gender)Females were significantly more likely to survive.
+Insight: The survival rate for women was roughly 74%, while for men it was only around 19%. This reflects the "women and children first" maritime tradition.
+
+2. Did class affect survival?
+Yes, dramatically.
+Insight: Survival followed a clear social hierarchy. 1st Class passengers had the highest survival rate (over 60%), 2nd Class was roughly 47%, and 3rd Class had the lowest (around 24%). Better cabin locations and priority access to lifeboats played a massive role.
+
+3. Were children prioritized?
+Yes, generally.
+Insight: Children (especially those in 1st and 2nd class) had much higher survival rates than adults in the same classes. However, this "priority" was less effective for children in 3rd Class, many of whom did not survive due to the difficulty of reaching the deck.
+
+4. What combination had the highest survival rate?
+Females in 1st Class.
+Insight: This group had a survival rate of nearly 97-99%. If you were a woman in 1st class, you were almost guaranteed to be placed on a lifeboat. Conversely, the group with the lowest survival rate was men in 3rd class.
+
+
+URL FOR KAGGLE: https://www.kaggle.com/code/temesgensida/notebookcb5d0ca70d
